@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "oaoYg3BcVmN1REzCg6PCLMYcVSBveKHlHBFixf1pKHRrbCIc5Cm5Y+lmjGPiCIzgRI8/9IZOUkbzF03L+yaEZQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\vladp\\OneDrive\\Документы\\MyProjects\\C#\\ToDoApp\\ToDoApp.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\vladp\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
